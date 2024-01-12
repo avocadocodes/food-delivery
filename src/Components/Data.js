@@ -156,7 +156,7 @@ const MenuItems = [
       id: 13,
       itemId: "hotdog01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog1.png?alt=media&token=658e67d8-9284-4ba4-93ad-778dad99ce9c",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/hotdog1.png?alt=media&token=550bb80e-00ad-410a-9204-444dffd88e4c",
       name: "Hot Dog",
       ratings: 4,
       price: "12",
@@ -165,7 +165,7 @@ const MenuItems = [
       id: 14,
       itemId: "hotdog01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog2.png?alt=media&token=20c79a23-546f-48ef-a0fb-d6801e22273c",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/hotdog2.png?alt=media&token=8d9b5673-afe7-49d6-9039-6076631e01a4",
       name: "Hot Dog",
       ratings: 4,
       price: "12",
@@ -174,7 +174,7 @@ const MenuItems = [
       id: 15,
       itemId: "hotdog01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog3.png?alt=media&token=f0f0024f-0c1f-48ff-b589-b7f484ab5c96",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/hotdog3.png?alt=media&token=ca59e233-5575-4bec-a987-0068827a3a22",
       name: "Hot Dog",
       ratings: 4,
       price: "12",
@@ -183,7 +183,7 @@ const MenuItems = [
       id: 16,
       itemId: "hotdog01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog4.png?alt=media&token=0c0e6531-db79-42b8-94f9-78a6d618f20c",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/hotdog6.png?alt=media&token=347cefe8-b314-43ee-afc1-a6681fc9d364",
       name: "Hot Dog",
       ratings: 4,
       price: "12",
@@ -192,7 +192,7 @@ const MenuItems = [
       id: 17,
       itemId: "hotdog01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog5.png?alt=media&token=95f8330f-dc35-4029-b125-d9cf01e3e345",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/hotdog4.png?alt=media&token=513fd0b4-75f0-46fe-b64b-3055bab4872a",
       name: "Hot Dog",
       ratings: 4,
       price: "12",
@@ -201,7 +201,7 @@ const MenuItems = [
       id: 18,
       itemId: "hotdog01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog6.png?alt=media&token=d371d7dd-c23e-465a-87ec-605c7ed3bc02",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/hotdog5.png?alt=media&token=bd41e2ca-88e4-4124-8b82-18b77ef378ad",
       name: "Hot Dog",
       ratings: 3,
       price: "12",
@@ -210,7 +210,7 @@ const MenuItems = [
       id: 19,
       itemId: "taco01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Ftaco1.png?alt=media&token=b78c8e68-c1a6-4e43-8c43-6ef9f23aa59f",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/taco1.png?alt=media&token=910ec58c-184b-4854-8250-c0d31e1e0501",
       name: "Taco",
       ratings: 3,
       price: "7.5",
@@ -219,7 +219,7 @@ const MenuItems = [
       id: 20,
       itemId: "taco01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Ftaco2.png?alt=media&token=a6e8d72e-f288-48dc-9f26-8322774f5216",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/taco2.png?alt=media&token=c12390ab-7433-4073-ae88-3c6b7680276d",
       name: "Taco",
       ratings: 3,
       price: "7.5",
@@ -228,7 +228,7 @@ const MenuItems = [
       id: 21,
       itemId: "taco01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Ftaco3.png?alt=media&token=daa2cf5b-36b7-426a-9f2c-73ae70e62634",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/taco3.png?alt=media&token=42cb2a37-7e87-4300-9cb2-d62944973997",
       name: "Taco",
       ratings: 3,
       price: "7.5",
@@ -237,7 +237,7 @@ const MenuItems = [
       id: 22,
       itemId: "taco01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Ftaco4.png?alt=media&token=5d067124-870f-4ea8-afe1-5bd4f94ca20c",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/taco4.png?alt=media&token=c0191ad2-6721-4735-b972-9ee7b3f6e16c",
       name: "Taco",
       ratings: 3,
       price: "9",
@@ -246,7 +246,7 @@ const MenuItems = [
       id: 23,
       itemId: "taco01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Ftaco5.png?alt=media&token=910f236f-2149-46cf-9b74-7d1ee0323c93",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/taco5.png?alt=media&token=5672d164-8e8b-4e94-a20f-0b886d84c55a",
       name: "Taco",
       ratings: 3,
       price: "9",
@@ -255,7 +255,7 @@ const MenuItems = [
       id: 24,
       itemId: "taco01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Ftaco6.png?alt=media&token=91214a30-cad0-434d-9339-3c658150ccab",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/taco6.png?alt=media&token=70f267ab-7262-4060-ae38-70ef4fe150fc",
       name: "Taco",
       ratings: 3,
       price: "9",
@@ -264,109 +264,109 @@ const MenuItems = [
       id: 25,
       itemId: "snack01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack1.png?alt=media&token=d670617e-4bfc-4693-aa8c-211db9f9d706",
-      name: "Snack",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/snack1.png?alt=media&token=e35d4a95-ade1-47ed-84e0-7685ba4265fe",
+      name: "Fruit Bowl",
       ratings: 4,
-      price: "9",
+      price: "150",
     },
     {
       id: 26,
       itemId: "snack01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack2.png?alt=media&token=55d7fc65-869b-4d8b-83b3-be0158474413",
-      name: "Snack",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/snack2.png?alt=media&token=2b5dce1f-bef6-40c9-8229-dc069a7186f4",
+      name: "Donut",
       ratings: 4,
-      price: "9",
+      price: "200",
     },
     {
       id: 27,
       itemId: "snack01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack3.png?alt=media&token=76b488a6-be44-4a3e-a29e-c34ac17f2e2c",
-      name: "Snack",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/snack3.png?alt=media&token=b276e268-f534-4b3d-8e7d-979945b6491c",
+      name: "Hot Chocolate",
       ratings: 4,
-      price: "9",
+      price: "250",
     },
     {
       id: 28,
       itemId: "snack01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack4.png?alt=media&token=1efcd8c0-098b-44a5-8113-da225e7358ce",
-      name: "Snack",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/snack4.png?alt=media&token=7929d596-59c6-4df6-a0d0-91ac6d2ee8c2",
+      name: "Popcorn",
       ratings: 4,
-      price: "9",
+      price: "200",
     },
     {
       id: 29,
       itemId: "snack01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack5.png?alt=media&token=80cece50-38cd-489f-a73f-edd740fba4ab",
-      name: "Snack",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/snack5.png?alt=media&token=11499b64-f88c-4d92-8bd3-a6fb41b70348",
+      name: "Lemonade",
       ratings: 4,
-      price: "9",
+      price: "80",
     },
     {
       id: 30,
       itemId: "snack01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack6.png?alt=media&token=a36cb2c5-72d1-4364-9817-3a8eb8c244b6",
-      name: "Snack",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/snack6.png?alt=media&token=cbfa74ce-d214-41f2-a9b6-129d6627ab5b",
+      name: "Snadwich",
       ratings: 4,
-      price: "9",
+      price: "150",
     },
     {
       id: 31,
       itemId: "drink01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink1.png?alt=media&token=e9cc5e4e-2194-4766-9d5a-5e01657927b7",
-      name: "Soft Drinks",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/drink1.png?alt=media&token=2727bb6e-69a0-439f-a3ae-2692ff2fd5f5",
+      name: "Diet Coke",
       ratings: 4,
-      price: "9",
+      price: "80",
     },
     {
       id: 32,
       itemId: "drink01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink2.png?alt=media&token=872c5ddd-23ae-4f1e-b1dd-18d375240ba6",
-      name: "Soft Drinks",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/drink2.png?alt=media&token=71a27416-1403-40af-a4da-6c86c3a0bf26",
+      name: "Pepsi",
       ratings: 4,
-      price: "7.5",
+      price: "90",
     },
     {
       id: 33,
       itemId: "drink01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink3.png?alt=media&token=c0efdccf-149a-4063-9658-00ae6c7c69dc",
-      name: "Soft Drinks",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/drink3.png?alt=media&token=438f027e-7058-43ac-92ad-3a9440b7f950",
+      name: "Coke",
       ratings: 4,
-      price: "7.5",
+      price: "100",
     },
     {
       id: 34,
       itemId: "drink01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink4.png?alt=media&token=eaaa8826-7fc0-499f-9eaf-8369ff99c112",
-      name: "Soft Drinks",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/drink4.png?alt=media&token=ac816b56-174a-4ee8-af1d-22ce90760409",
+      name: "Apple Juice",
       ratings: 4,
-      price: "7.5",
+      price: "60",
     },
     {
       id: 35,
       itemId: "drink01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink5.png?alt=media&token=eecf1eee-73f5-4705-a7ce-9ccc363f4f47",
-      name: "Soft Drinks",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/drink5.png?alt=media&token=96b9ce4d-c7dc-4895-b973-377455468636",
+      name: "Sprite",
       ratings: 4,
-      price: "7.5",
+      price: "120",
     },
     {
       id: 36,
       itemId: "drink01",
       imgSrc:
-        "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink6.png?alt=media&token=86c4ba2c-0db7-47f0-b8cf-fed24db6c1ae",
-      name: "Soft Drinks",
+        "https://firebasestorage.googleapis.com/v0/b/food-delivery-8c8c4.appspot.com/o/drink6.png?alt=media&token=329edc83-2a9a-49f5-88e2-2229d3339f62",
+      name: "Iced Cofee",
       ratings: 4,
-      price: "7.5",
+      price: "180",
     },
   
     // {
